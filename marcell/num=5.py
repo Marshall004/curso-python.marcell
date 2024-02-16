@@ -5,4 +5,4 @@ def factorial (num):
 
     print ("el factorial de", num, "es:", producto)
 
-factorial(5)
+factorial(6)
